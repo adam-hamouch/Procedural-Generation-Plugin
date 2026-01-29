@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProceduralEditorPlugin",
+	"Description": "Props procedural generation plugin.",
+	"Category": "Other",
+	"CreatedBy": "Adam Hamouch",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ProceduralEditorPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ProceduralEditorModule",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ProceduralRuntimeModule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
