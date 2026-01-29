@@ -8,6 +8,10 @@ It allows you to spawn meshes inside a custom shape drawn with a spline, using *
 
 The tool is fully editor-driven and designed to be flexible, reusable, and efficient for level design workflows.
 
+![In Game view](Images/GameView.png)
+![Editor view](Images/EditorView.png)
+![Slate interface](Images/SlateUI.png)
+
 ---
 
 ## Features
